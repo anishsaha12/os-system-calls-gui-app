@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1508954005 source:c:\users\anish\desktop\temp\progs\os\test.cpp
+	<graphics.h>
+	<math.h>
+	<time.h>
+
+1266078014 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1508953838 source:c:\users\anish\desktop\temp\progs\os\test2.cpp
+	<graphics.h>
+	<math.h>
+	<time.h>
+
+1508953994 source:c:\users\anish\desktop\temp\progs\os\test3.cpp
+	<graphics.h>
+
+1508953497 c:\users\anish\desktop\temp\progs\os\test.cpp
+	<graphics.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<dos.h>
+	<string.h>
+	<iostream>
+	<time.h>
+
+1509268550 source:c:\users\anish\desktop\temp\progs\os proj\test2.cpp
+	<w32api.h>
+	<stdio.h>
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+
+1509090477 source:c:\users\anish\desktop\temp\progs\os proj\test3.cpp
+
+1509090462 source:c:\users\anish\desktop\temp\progs\os proj\test.cpp
+	<graphics.h>
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<w32api.h>
+	<string>
+	<string.h>
+	<fcntl.h>
+	<fstream>
+
+1509372131 source:c:\users\anish\desktop\temp\progs\os proj\main.cpp
+	<graphics.h>
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<w32api.h>
+	<string>
+	<string.h>
+	<fcntl.h>
+	<fstream>
+

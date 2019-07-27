@@ -1,0 +1,4 @@
+newfile.txt
+nextfile.txt
+anotherfile.txt
+testfile.txt
